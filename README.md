@@ -1,12 +1,12 @@
 # Contributing Demo
 
-[Naruto GIF](https://gph.is/XLmHco)
+![Naruto GIF](https://gph.is/XLmHco)
 
 A demo repository for teaching how to contribute.
 
 ## LINKS
 
-- ![google play store apps & reviews dataset](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv)
+- [google play store apps & reviews dataset](https://www.kaggle.com/lava18/google-play-store-apps#googleplaystore_user_reviews.csv)
 
 ## How to Use
 
